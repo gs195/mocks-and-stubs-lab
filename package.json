@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^23.3.0"
+    "jest": "^23.6.0"
   },
   "dependencies": {
     "mathjs": "^5.0.2"
